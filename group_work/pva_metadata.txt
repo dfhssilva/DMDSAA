@@ -934,12 +934,3 @@ MDMAUD_A                    Donation Amount code for MDMAUD
 CLUSTER2                    Classic Cluster Code (a nominal symbolic field)
 GEOCODE2                    County Size Code
 
-======================================================================
-EPSILON CONFIDENTIAL      EPSILON CONFIDENTIAL    EPSILON CONFIDENTIAL
-
-    INFORMATION LISTED BELOW IS AVAILABLE UNDER THE TERMS OF THE
-                      CONFIDENTIALITY AGREEMENT
-
-EPSILON CONFIDENTIAL      EPSILON CONFIDENTIAL    EPSILON CONFIDENTIAL
-======================================================================
-

@@ -208,13 +208,6 @@ CLUSTER                     CLUSTER
                             urbanicty, ethnicity and a variety of other demographic
                             characteristics. A nominal or symbolic field.
 
-AGE                         Overlay Age
-                            0 = missing
-
-AGEFLAG                     Age Flag
-                            E = Exact
-                            I = Inferred from Date of Birth Field
-
 HOMEOWNR                    Home Owner Flag
                             H = Home owner
                             U = Unknown

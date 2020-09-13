@@ -1,3 +1,15 @@
+*.pptx
+*data_preprocessing.ipynb
+
+# Data files
+*.csv
+
+# Mac junk
+.DS_Store
+
+# Custom
+scripts/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -73,6 +85,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# PyCharm
+.idea
 
 # Jupyter Notebook
 .ipynb_checkpoints

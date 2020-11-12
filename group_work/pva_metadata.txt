@@ -761,53 +761,53 @@ AC2                         Percent Adults Age 60-64
                             G=$25.00 and above
 
 
-ADATE_2                     Date the 97NK promotion was mailed
-ADATE_3                     Date the 96NK promotion was mailed
-ADATE_4                     Date the 96TK promotion was mailed
-ADATE_5                     Date the 96SK promotion was mailed
-ADATE_6                     Date the 96LL promotion was mailed
-ADATE_7                     Date the 96G1 promotion was mailed
-ADATE_8                     Date the 96GK promotion was mailed
-ADATE_9                     Date the 96CC promotion was mailed
-ADATE_10                    Date the 96WL promotion was mailed
-ADATE_11                    Date the 96X1 promotion was mailed
-ADATE_12                    Date the 96XK promotion was mailed
-ADATE_13                    Date the 95FS promotion was mailed
-ADATE_14                    Date the 95NK promotion was mailed
-ADATE_15                    Date the 95TK promotion was mailed
-ADATE_16                    Date the 95LL promotion was mailed
-ADATE_17                    Date the 95G1 promotion was mailed
-ADATE_18                    Date the 95GK promotion was mailed
-ADATE_19                    Date the 95CC promotion was mailed
-ADATE_20                    Date the 95WL promotion was mailed
-ADATE_21                    Date the 95X1 promotion was mailed
-ADATE_22                    Date the 95XK promotion was mailed
-ADATE_23                    Date the 94FS promotion was mailed
-ADATE_24                    Date the 94NK promotion was mailed
+ADATE_2                     Date the 17NK promotion was mailed
+ADATE_3                     Date the 16NK promotion was mailed
+ADATE_4                     Date the 16TK promotion was mailed
+ADATE_5                     Date the 16SK promotion was mailed
+ADATE_6                     Date the 16LL promotion was mailed
+ADATE_7                     Date the 16G1 promotion was mailed
+ADATE_8                     Date the 16GK promotion was mailed
+ADATE_9                     Date the 16CC promotion was mailed
+ADATE_10                    Date the 16WL promotion was mailed
+ADATE_11                    Date the 16X1 promotion was mailed
+ADATE_12                    Date the 16XK promotion was mailed
+ADATE_13                    Date the 15FS promotion was mailed
+ADATE_14                    Date the 15NK promotion was mailed
+ADATE_15                    Date the 15TK promotion was mailed
+ADATE_16                    Date the 15LL promotion was mailed
+ADATE_17                    Date the 15G1 promotion was mailed
+ADATE_18                    Date the 15GK promotion was mailed
+ADATE_19                    Date the 15CC promotion was mailed
+ADATE_20                    Date the 15WL promotion was mailed
+ADATE_21                    Date the 15X1 promotion was mailed
+ADATE_22                    Date the 15XK promotion was mailed
+ADATE_23                    Date the 14FS promotion was mailed
+ADATE_24                    Date the 14NK promotion was mailed
 
-RFA_2                       Donor's RFA status as of 97NK promotion date
-RFA_3                       Donor's RFA status as of 96NK promotion date
-RFA_4                       Donor's RFA status as of 96TK promotion date
-RFA_5                       Donor's RFA status as of 96SK promotion date
-RFA_6                       Donor's RFA status as of 96LL promotion date
-RFA_7                       Donor's RFA status as of 96G1 promotion date
-RFA_8                       Donor's RFA status as of 96GK promotion date
-RFA_9                       Donor's RFA status as of 96CC promotion date
-RFA_10                      Donor's RFA status as of 96WL promotion date
-RFA_11                      Donor's RFA status as of 96X1 promotion date
-RFA_12                      Donor's RFA status as of 96XK promotion date
-RFA_13                      Donor's RFA status as of 95FS promotion date
-RFA_14                      Donor's RFA status as of 95NK promotion date
-RFA_15                      Donor's RFA status as of 95TK promotion date
-RFA_16                      Donor's RFA status as of 95LL promotion date
-RFA_17                      Donor's RFA status as of 95G1 promotion date
-RFA_18                      Donor's RFA status as of 95GK promotion date
-RFA_19                      Donor's RFA status as of 95CC promotion date
-RFA_20                      Donor's RFA status as of 95WL promotion date
-RFA_21                      Donor's RFA status as of 95X1 promotion date
-RFA_22                      Donor's RFA status as of 95XK promotion date
-RFA_23                      Donor's RFA status as of 94FS promotion date
-RFA_24                      Donor's RFA status as of 94NK promotion date
+RFA_2                       Donor's RFA status as of 17NK promotion date
+RFA_3                       Donor's RFA status as of 16NK promotion date
+RFA_4                       Donor's RFA status as of 16TK promotion date
+RFA_5                       Donor's RFA status as of 16SK promotion date
+RFA_6                       Donor's RFA status as of 16LL promotion date
+RFA_7                       Donor's RFA status as of 16G1 promotion date
+RFA_8                       Donor's RFA status as of 16GK promotion date
+RFA_9                       Donor's RFA status as of 16CC promotion date
+RFA_10                      Donor's RFA status as of 16WL promotion date
+RFA_11                      Donor's RFA status as of 16X1 promotion date
+RFA_12                      Donor's RFA status as of 16XK promotion date
+RFA_13                      Donor's RFA status as of 15FS promotion date
+RFA_14                      Donor's RFA status as of 15NK promotion date
+RFA_15                      Donor's RFA status as of 15TK promotion date
+RFA_16                      Donor's RFA status as of 15LL promotion date
+RFA_17                      Donor's RFA status as of 15G1 promotion date
+RFA_18                      Donor's RFA status as of 15GK promotion date
+RFA_19                      Donor's RFA status as of 15CC promotion date
+RFA_20                      Donor's RFA status as of 15WL promotion date
+RFA_21                      Donor's RFA status as of 15X1 promotion date
+RFA_22                      Donor's RFA status as of 15XK promotion date
+RFA_23                      Donor's RFA status as of 14FS promotion date
+RFA_24                      Donor's RFA status as of 14NK promotion date
 
 --------------------------  -------------------------------------------------
                             The following fields are summary variables from
@@ -821,60 +821,60 @@ MAXADATE                    Date of the most recent promotion received (in
 NUMPROM                     Lifetime number of promotions received to date
 CARDPM12                    Number of card promotions received in the last
                             12 months (in terms of calendar months translates
-                            into 9603-9702)
+                            into 1603-1702)
 NUMPRM12                    Number of promotions received in the last 12
                             months (in terms of calendar months translates
-                            into 9603-9702)
+                            into 1603-1702)
 
 --------------------------  -------------------------------------------------
                             The following fields are from the giving history
                             file.
 
-RDATE_3                     Date the gift was received for 96NK
-RDATE_4                     Date the gift was received for 96TK
-RDATE_5                     Date the gift was received for 96SK
-RDATE_6                     Date the gift was received for 96LL
-RDATE_7                     Date the gift was received for 96G1
-RDATE_8                     Date the gift was received for 96GK
-RDATE_9                     Date the gift was received for 96CC
-RDATE_10                    Date the gift was received for 96WL
-RDATE_11                    Date the gift was received for 96X1
-RDATE_12                    Date the gift was received for 96XK
-RDATE_13                    Date the gift was received for 95FS
-RDATE_14                    Date the gift was received for 95NK
-RDATE_15                    Date the gift was received for 95TK
-RDATE_16                    Date the gift was received for 95LL
-RDATE_17                    Date the gift was received for 95G1
-RDATE_18                    Date the gift was received for 95GK
-RDATE_19                    Date the gift was received for 95CC
-RDATE_20                    Date the gift was received for 95WL
-RDATE_21                    Date the gift was received for 95X1
-RDATE_22                    Date the gift was received for 95XK
-RDATE_23                    Date the gift was received for 94FS
-RDATE_24                    Date the gift was received for 94NK
+RDATE_3                     Date the gift was received for 16NK
+RDATE_4                     Date the gift was received for 16TK
+RDATE_5                     Date the gift was received for 16SK
+RDATE_6                     Date the gift was received for 16LL
+RDATE_7                     Date the gift was received for 16G1
+RDATE_8                     Date the gift was received for 16GK
+RDATE_9                     Date the gift was received for 16CC
+RDATE_10                    Date the gift was received for 16WL
+RDATE_11                    Date the gift was received for 16X1
+RDATE_12                    Date the gift was received for 16XK
+RDATE_13                    Date the gift was received for 15FS
+RDATE_14                    Date the gift was received for 15NK
+RDATE_15                    Date the gift was received for 15TK
+RDATE_16                    Date the gift was received for 15LL
+RDATE_17                    Date the gift was received for 15G1
+RDATE_18                    Date the gift was received for 15GK
+RDATE_19                    Date the gift was received for 15CC
+RDATE_20                    Date the gift was received for 15WL
+RDATE_21                    Date the gift was received for 15X1
+RDATE_22                    Date the gift was received for 15XK
+RDATE_23                    Date the gift was received for 14FS
+RDATE_24                    Date the gift was received for 14NK
 
-RAMNT_3                     Dollar amount of the gift for 96NK
-RAMNT_4                     Dollar amount of the gift for 96TK
-RAMNT_5                     Dollar amount of the gift for 96SK
-RAMNT_6                     Dollar amount of the gift for 96LL
-RAMNT_7                     Dollar amount of the gift for 96G1
-RAMNT_8                     Dollar amount of the gift for 96GK
-RAMNT_9                     Dollar amount of the gift for 96CC
-RAMNT_10                    Dollar amount of the gift for 96WL
-RAMNT_11                    Dollar amount of the gift for 96X1
-RAMNT_12                    Dollar amount of the gift for 96XK
-RAMNT_13                    Dollar amount of the gift for 95FS
-RAMNT_14                    Dollar amount of the gift for 95NK
-RAMNT_15                    Dollar amount of the gift for 95TK
-RAMNT_16                    Dollar amount of the gift for 95LL
-RAMNT_17                    Dollar amount of the gift for 95G1
-RAMNT_18                    Dollar amount of the gift for 95GK
-RAMNT_19                    Dollar amount of the gift for 95CC
-RAMNT_20                    Dollar amount of the gift for 95WL
-RAMNT_21                    Dollar amount of the gift for 95X1
-RAMNT_22                    Dollar amount of the gift for 95XK
-RAMNT_23                    Dollar amount of the gift for 94FS
-RAMNT_24                    Dollar amount of the gift for 94NK
+RAMNT_3                     Dollar amount of the gift for 16NK
+RAMNT_4                     Dollar amount of the gift for 16TK
+RAMNT_5                     Dollar amount of the gift for 16SK
+RAMNT_6                     Dollar amount of the gift for 16LL
+RAMNT_7                     Dollar amount of the gift for 16G1
+RAMNT_8                     Dollar amount of the gift for 16GK
+RAMNT_9                     Dollar amount of the gift for 16CC
+RAMNT_10                    Dollar amount of the gift for 16WL
+RAMNT_11                    Dollar amount of the gift for 16X1
+RAMNT_12                    Dollar amount of the gift for 16XK
+RAMNT_13                    Dollar amount of the gift for 15FS
+RAMNT_14                    Dollar amount of the gift for 15NK
+RAMNT_15                    Dollar amount of the gift for 15TK
+RAMNT_16                    Dollar amount of the gift for 15LL
+RAMNT_17                    Dollar amount of the gift for 15G1
+RAMNT_18                    Dollar amount of the gift for 15GK
+RAMNT_19                    Dollar amount of the gift for 15CC
+RAMNT_20                    Dollar amount of the gift for 15WL
+RAMNT_21                    Dollar amount of the gift for 15X1
+RAMNT_22                    Dollar amount of the gift for 15XK
+RAMNT_23                    Dollar amount of the gift for 14FS
+RAMNT_24                    Dollar amount of the gift for 14NK
 
 --------------------------  -------------------------------------------------
                             The following fields are summary variables from
